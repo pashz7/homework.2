@@ -72,8 +72,8 @@ header span {
     fill: #fff;
     width: 1440px;
     height: 883px;
-    padding-top: 100px;
-    padding-bottom: 50px;
+    paddinggi: 100px 0px;
+
 }
 
 select {
